@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Podkova:wght@400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "Podkova", serif;
+}
+body {
+  font-size: 18px;
+  line-height: 20px;
+}
+.container {
+  max-width: 150.2rem;
+  margin: 0 auto;
+  padding: 0 3rem;
+}
+
+.shadow-input {
+  background: #fefefe;
+  box-shadow: 5px -3px 4px rgba(0, 0, 0, 0.25),
+    inset 3px -3px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.shadow-product {
+  box-shadow: 0px 22px 40px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.shadow-sidebar {
+  position: relative;
+}
+
+.shadow-sidebar::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 4px; /* adjust width as needed */
+  background: rgba(0, 0, 0, 0.25);
+  filter: drop-shadow(7px 6px 4px rgba(0, 0, 0, 0.25));
+  z-index: -1;
+}
+
+.btn-shadow {
+  box-shadow: 7px 6px 4px 2px rgba(0, 0, 0, 0.3);
+}
+.shadow-i {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/*  */
+.btn {
+  border-radius: 10px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 22px;
+  padding: 8px 17px;
+}
+.btn-primary {
+  background: #38ff4c;
+  border: 2px solid #38ff4c;
+}
+
+.btn-secondary {
+  border: 2px solid #38ff4c;
+}
+
+/* Right */
+.bg-g {
+  background: linear-gradient(106.69deg, #42990d 13.38%, #076969 87.5%);
+  border-radius: 20px;
+  color: #ebebeb;
+}
+
+.right-text {
+  font-size: 29px;
+  line-height: 32px;
+
+  color: #ebebeb;
+}
