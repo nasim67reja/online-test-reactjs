@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.css": "/online-test-reactjs/static/css/main.fc43e12c.css",
-    "main.js": "/online-test-reactjs/static/js/main.aa0acbc7.js",
+    "main.css": "/online-test-reactjs/static/css/main.8b1dc9f2.css",
+    "main.js": "/online-test-reactjs/static/js/main.42e242ae.js",
+    "static/media/Frame23.png": "/online-test-reactjs/static/media/Frame23.14f950163e6530642d9a.png",
     "static/media/Headphone.png": "/online-test-reactjs/static/media/Headphone.b4569aeba83377172538.png",
     "static/media/explore.svg": "/online-test-reactjs/static/media/explore.0707464b0285c38113e6b3ba412e61c2.svg",
     "static/media/history.svg": "/online-test-reactjs/static/media/history.a118a63847aaa7d41d2d61328f37bb38.svg",
+    "static/media/Frame16.png": "/online-test-reactjs/static/media/Frame16.fc50209fdadbb66ac765.png",
+    "static/media/Frame17.png": "/online-test-reactjs/static/media/Frame17.bd18ed596a472e8f788d.png",
     "static/media/profile.svg": "/online-test-reactjs/static/media/profile.f6fdc5bb68694be311d6583d9435141b.svg",
     "static/media/headphone.svg": "/online-test-reactjs/static/media/headphone.a2221bae0add299306db8e20db4d55f8.svg",
     "static/media/saved.svg": "/online-test-reactjs/static/media/saved.02512728c7f91c0803e41dd144cc43ca.svg",
@@ -23,11 +26,11 @@
     "static/media/star.svg": "/online-test-reactjs/static/media/star.361d92efddb86f3a90d075af99031ff9.svg",
     "index.html": "/online-test-reactjs/index.html",
     "static/media/sign.svg": "/online-test-reactjs/static/media/sign.919969de790c023d990cc15972f0ea01.svg",
-    "main.fc43e12c.css.map": "/online-test-reactjs/static/css/main.fc43e12c.css.map",
-    "main.aa0acbc7.js.map": "/online-test-reactjs/static/js/main.aa0acbc7.js.map"
+    "main.8b1dc9f2.css.map": "/online-test-reactjs/static/css/main.8b1dc9f2.css.map",
+    "main.42e242ae.js.map": "/online-test-reactjs/static/js/main.42e242ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc43e12c.css",
-    "static/js/main.aa0acbc7.js"
+    "static/css/main.8b1dc9f2.css",
+    "static/js/main.42e242ae.js"
   ]
 }
