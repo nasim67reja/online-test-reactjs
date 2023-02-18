@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/online-test-reactjs/static/css/main.47962a1e.css",
+    "main.js": "/online-test-reactjs/static/js/main.4be57266.js",
+    "static/media/Headphone.png": "/online-test-reactjs/static/media/Headphone.b4569aeba83377172538.png",
+    "static/media/explore.svg": "/online-test-reactjs/static/media/explore.0707464b0285c38113e6b3ba412e61c2.svg",
+    "static/media/history.svg": "/online-test-reactjs/static/media/history.a118a63847aaa7d41d2d61328f37bb38.svg",
+    "static/media/profile.svg": "/online-test-reactjs/static/media/profile.f6fdc5bb68694be311d6583d9435141b.svg",
+    "static/media/headphone.svg": "/online-test-reactjs/static/media/headphone.a2221bae0add299306db8e20db4d55f8.svg",
+    "static/media/saved.svg": "/online-test-reactjs/static/media/saved.02512728c7f91c0803e41dd144cc43ca.svg",
+    "static/media/h1.png": "/online-test-reactjs/static/media/h1.7b6807fff0728494fadc.png",
+    "static/media/cart.svg": "/online-test-reactjs/static/media/cart.4a0b9372e4ea9ab46bc82fe067b77301.svg",
+    "static/media/selling.svg": "/online-test-reactjs/static/media/selling.2acd4d1c3a6bd5535b237337d4e492ad.svg",
+    "static/media/home.svg": "/online-test-reactjs/static/media/home.d30db68d5afd92f427a0656583773bd2.svg",
+    "static/media/h2.png": "/online-test-reactjs/static/media/h2.8d8b5fa39d97183a8597.png",
+    "static/media/setting.svg": "/online-test-reactjs/static/media/setting.3a188f9238760f6ceae8b60fb1e4be04.svg",
+    "static/media/search.svg": "/online-test-reactjs/static/media/search.814f2412372902a09c39f75606111489.svg",
+    "static/media/message.svg": "/online-test-reactjs/static/media/message.6934eed7133f9166bdcae43d71a80428.svg",
+    "static/media/notification.svg": "/online-test-reactjs/static/media/notification.6d775f9738d4b960a9c35b54c8f7de91.svg",
+    "static/media/settings.svg": "/online-test-reactjs/static/media/settings.372e688a5581005367fbc1311ab7ed40.svg",
+    "static/media/contactus.svg": "/online-test-reactjs/static/media/contactus.fd40856c41b8e0387283def2b1bdc84f.svg",
+    "static/media/person.svg": "/online-test-reactjs/static/media/person.c7b32ee63ec4f903aa92ead994b36b84.svg",
+    "static/media/star.svg": "/online-test-reactjs/static/media/star.361d92efddb86f3a90d075af99031ff9.svg",
+    "index.html": "/online-test-reactjs/index.html",
+    "static/media/sign.svg": "/online-test-reactjs/static/media/sign.919969de790c023d990cc15972f0ea01.svg",
+    "main.47962a1e.css.map": "/online-test-reactjs/static/css/main.47962a1e.css.map",
+    "main.4be57266.js.map": "/online-test-reactjs/static/js/main.4be57266.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47962a1e.css",
+    "static/js/main.4be57266.js"
+  ]
+}
