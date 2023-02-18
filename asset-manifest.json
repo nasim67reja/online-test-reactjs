@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/online-test-reactjs/static/css/main.47962a1e.css",
-    "main.js": "/online-test-reactjs/static/js/main.4be57266.js",
+    "main.css": "/online-test-reactjs/static/css/main.fc43e12c.css",
+    "main.js": "/online-test-reactjs/static/js/main.aa0acbc7.js",
     "static/media/Headphone.png": "/online-test-reactjs/static/media/Headphone.b4569aeba83377172538.png",
     "static/media/explore.svg": "/online-test-reactjs/static/media/explore.0707464b0285c38113e6b3ba412e61c2.svg",
     "static/media/history.svg": "/online-test-reactjs/static/media/history.a118a63847aaa7d41d2d61328f37bb38.svg",
@@ -23,11 +23,11 @@
     "static/media/star.svg": "/online-test-reactjs/static/media/star.361d92efddb86f3a90d075af99031ff9.svg",
     "index.html": "/online-test-reactjs/index.html",
     "static/media/sign.svg": "/online-test-reactjs/static/media/sign.919969de790c023d990cc15972f0ea01.svg",
-    "main.47962a1e.css.map": "/online-test-reactjs/static/css/main.47962a1e.css.map",
-    "main.4be57266.js.map": "/online-test-reactjs/static/js/main.4be57266.js.map"
+    "main.fc43e12c.css.map": "/online-test-reactjs/static/css/main.fc43e12c.css.map",
+    "main.aa0acbc7.js.map": "/online-test-reactjs/static/js/main.aa0acbc7.js.map"
   },
   "entrypoints": [
-    "static/css/main.47962a1e.css",
-    "static/js/main.4be57266.js"
+    "static/css/main.fc43e12c.css",
+    "static/js/main.aa0acbc7.js"
   ]
 }
